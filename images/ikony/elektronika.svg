@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="ikony" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#298D3F;}
+	.st1{fill:none;stroke:#298D3F;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#298D3F;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#15339F;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#298D3F;}
+	.st5{fill:#15339F;stroke:#15339F;stroke-width:0.5;stroke-miterlimit:10;}
+	.st6{fill:#15339F;stroke:#15339F;stroke-width:0.25;stroke-miterlimit:10;}
+	.st7{fill:#15339F;}
+	
+		.st8{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#15339F;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:#15339F;stroke:#15339F;stroke-width:0.75;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<g>
+			<path class="st1" d="M48.49,36.43H1.51v-3.62C1.51,19.84,12.02,9.32,25,9.32h0c12.98,0,23.49,10.52,23.49,23.49V36.43z"/>
+			<rect x="1.51" y="36.43" class="st1" width="46.99" height="4.25"/>
+		</g>
+		<g>
+			<path class="st1" d="M18.65,20.76h-7.21c-2.33,0-4.22,1.89-4.22,4.22v7.67h15.65v-7.67C22.87,22.65,20.98,20.76,18.65,20.76z"/>
+			<path class="st1" d="M38.56,20.76h-7.21c-2.33,0-4.22,1.89-4.22,4.22v7.67h15.65v-7.67C42.78,22.65,40.89,20.76,38.56,20.76z"/>
+		</g>
+		<path class="st1" d="M12.99,29.87c0-1.12,0.91-2.03,2.03-2.03c1.12,0,2.03,0.91,2.03,2.03"/>
+		<line class="st1" x1="14.24" y1="27.72" x2="12.46" y2="25.22"/>
+		<path class="st1" d="M31.98,17.57H18.03v0c0.89-2.72,3.42-4.56,6.28-4.56h1.38C28.56,13,31.1,14.85,31.98,17.57L31.98,17.57z"/>
+		<path class="st1" d="M36.95,29.87c0-1.12-0.91-2.03-2.03-2.03c-1.12,0-2.03,0.91-2.03,2.03"/>
+		<line class="st1" x1="35.76" y1="27.84" x2="37.26" y2="24.88"/>
+	</g>
+	<line class="st1" x1="15.05" y1="20.76" x2="15.05" y2="22.84"/>
+	<line class="st1" x1="21.53" y1="24.63" x2="19.97" y2="26"/>
+	<line class="st1" x1="8.31" y1="24.63" x2="9.87" y2="26"/>
+	<line class="st1" x1="35.08" y1="20.76" x2="35.08" y2="22.84"/>
+	<line class="st1" x1="41.57" y1="24.63" x2="40" y2="26"/>
+	<line class="st1" x1="28.34" y1="24.63" x2="29.91" y2="26"/>
+</g>
+</svg>
