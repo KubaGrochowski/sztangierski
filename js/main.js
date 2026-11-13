@@ -14,7 +14,7 @@
       themeBtn.setAttribute("aria-pressed", String(dark));
       themeBtn.setAttribute("aria-label", dark ? "Włącz jasny motyw" : "Włącz ciemny motyw");
     }
-    if (metaTheme) metaTheme.setAttribute("content", dark ? "#0a0f1c" : "#eceef2");
+    if (metaTheme) metaTheme.setAttribute("content", "#1533a0"); // niebieski nagłówek w obu motywach
   };
   const applyTheme = (t) => {
     root.setAttribute("data-theme", t);
